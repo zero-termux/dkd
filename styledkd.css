@@ -60,6 +60,7 @@ body {
     width: 800px;
     margin: auto;
     background-color: rgb(255, 255, 255);
+    position: relative;
 }
 
 .pembungkus h1 {
